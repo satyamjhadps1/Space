@@ -1,0 +1,30 @@
+body{
+background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 100%, rgba(78,77,78,1) 0%);
+}
+.header{
+    font-family: 'Benne', serif;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-weight: bold;
+    color: white;
+}
+.para{
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 18px;
+    font-weight: 500;
+    word-spacing: 0.5px;
+    color: white;
+}
+
+.head{
+    font-family: 'Mate SC', serif;
+    font-size: 18px;
+    font-variant: small-caps;
+    font-weight: bold;
+    color: white;
+}
+
+.color123{
+    color: white;
+}
